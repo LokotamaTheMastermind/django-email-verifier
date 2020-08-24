@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+src/email_verifier/__pycache__/
+src/verifier/__pycache__/
+src/verifier/migrations/__pycache_/
